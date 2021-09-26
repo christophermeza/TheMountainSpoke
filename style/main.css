@@ -28,6 +28,11 @@ main {
     margin-right: auto;
 }
 
+body main image {
+    width: 200px;
+    height: auto;
+}
+
 p b {
     font-size: 18px;
     text-decoration: none;
@@ -69,7 +74,8 @@ body main div ul {
 }
 
 p b a {
-    margin-bottom: -5px;;
+    margin-bottom: -5px;
+    color: limegreen;
 }
 
 /*drop down*/

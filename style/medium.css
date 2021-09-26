@@ -145,4 +145,8 @@
   margin-left: auto;
   margin-right: auto;
     }
+    
+    #main h3 {
+        margin-bottom: -16px;
+    }
 }
